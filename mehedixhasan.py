@@ -24,7 +24,7 @@ __  __ ______ _    _ ______ _____ _____
                                                       
                                               
                                         
-  Masum Vai BD SMS BOMBER v2.0
+  MEHEDIxHASAN SMS BOMBER v2.0
 \033[0m""")
 
 def password_prompt():
